@@ -127,3 +127,11 @@ body {
             #0f4d32 60%, #15260f 90%
     );
 }
+
+.social-media-buttons li:nth-child(3) a:hover {
+    background: radial-gradient(
+            circle at 30% 107%, #da7430 0%,
+            #bd6d2b 5%, #b86d20 45%,
+            #f47925 60%, #ea5002 90%
+    );
+}
